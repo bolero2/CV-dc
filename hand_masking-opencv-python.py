@@ -3,6 +3,7 @@ import cv2 as cv
 # img = cv.imread("C:\\Users\\Administrator\\Desktop\\testImage2.jpg")
 cap = cv.VideoCapture(0)
 cv.namedWindow("video")
+cv.namedWindow("original")
 
 
 def cvtimg(img):
@@ -18,6 +19,7 @@ ret, frame = cap.read()
 
 while ret:
     ret, frame = cap.read()
+    cv.imshow("original", frame)
     cv.imshow("video", cvtimg(frame))
     cv.waitKey(10)
 
