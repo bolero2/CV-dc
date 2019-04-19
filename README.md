@@ -17,7 +17,7 @@ Date : 2019. 04. 19
 
 
 <Usage>
-  
+
 1. BGR image (convert) YCrCb image : Remove Background
 
 2. Asian Skin color range
@@ -29,6 +29,5 @@ Date : 2019. 04. 19
 3. Gaussian Blurring
 
 4. Thresholding(127 -> 255, THRESH_BINARY)
-
 
 
