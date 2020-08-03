@@ -24,6 +24,7 @@ Requirments:
 # Face_Detection+Recognition.py
 goto:
 > https://github.com/ipsuck/CV/blob/master/ML/Face_Detection%2BRecognition.py
+
 Date : 2020. 07. 03
 
 <Usage>
