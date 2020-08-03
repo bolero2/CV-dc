@@ -4,11 +4,15 @@
 
 
 # hand-masking
-> ???
+goto:
+> 
 
 
 
 # object-tracking
+goto:
+> 
+
 from: 
 > https://www.youtube.com/watch?v=1FJWXOO1SR
 
