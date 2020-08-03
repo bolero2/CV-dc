@@ -25,7 +25,9 @@ Requirments:
 goto:
 > https://github.com/ipsuck/CV/blob/master/ML/Face_Detection%2BRecognition.py
 
+
 Date : 2020. 07. 03
+
 
 <Usage>
 1. Short lenght Video files
