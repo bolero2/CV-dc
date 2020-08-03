@@ -5,13 +5,13 @@
 
 # hand-masking
 goto:
-> 
+> https://github.com/ipsuck/CV/tree/master/hand-masking
 
 
 
 # object-tracking
 goto:
-> 
+> https://github.com/ipsuck/CV/tree/master/object-tracking
 
 from: 
 > https://www.youtube.com/watch?v=1FJWXOO1SR
