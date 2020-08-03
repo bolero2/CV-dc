@@ -2,8 +2,13 @@
 > Digital Image Processing + Computer Vision
 
 
-# object-tracking
 
+# hand-masking
+> ???
+
+
+
+# object-tracking
 from: 
 > https://www.youtube.com/watch?v=1FJWXOO1SR
 
