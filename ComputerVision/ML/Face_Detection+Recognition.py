@@ -32,8 +32,9 @@ def face_encodings(face_image, number_of_times_to_upsample=1, num_jitters=1):
 
 # 수정 부분
 #######################################################################################################################
-video = ["video5.mp4", "video1.mp4"]
-wanted = ['moon2.jpg', "rv_irin.jpg", "rv_seulgi.jpg", "rv_yeri.jpg"]
+# video = ["data/rv_mv1.mp4", "data/rv_mv2.mp4"]
+video = ['data/rv_mv2.mp4']
+wanted = ['data/rv_irin.jpg', "data/rv_seulgi.jpg"]
 #######################################################################################################################
 
 # 1행 -> wanted 출현 횟수
